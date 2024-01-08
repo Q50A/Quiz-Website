@@ -33,5 +33,5 @@ $(document).ready(function() {
   }
 });
 $('#restartBtn').click(function() {
-    $(location).attr('href');
+    $(location).attr('href','https://q50a.github.io/Quiz-Website/');
 });
